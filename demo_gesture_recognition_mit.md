@@ -9,7 +9,7 @@ The link to the script to build opencv is dead
 
 I edited it because there is a mistake in the cmake statement
 
-To proceed to step: sudo python3 setup.py install
+To proceed to step: "sudo python3 setup.py install"
   sudo apt-get install python3-setuptools
   
 To install some packages with pip (because apparently the Jetson nano does not come with Python pip)  
