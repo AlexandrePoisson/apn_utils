@@ -8,6 +8,8 @@ So I want to create a virtual env with Python 3.7 and TF 1.15
 
 ## Shell command
 
+    sudo apt-get install libbz2-dev    
+    
     mkdir ~/src
     mv Downloads/Python-3.7.7.tgz .
     tar -zxvf Python-3.7.7.tgz 
