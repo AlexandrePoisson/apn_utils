@@ -10,10 +10,11 @@ Script can be found here (https://github.com/AastaNV/JEP/blob/master/script/inst
 I edited it because there is a mistake in the cmake statement
 
 ## Install TVM
-To proceed to step: "sudo python3 setup.py install"
+To proceed to step: 
     
     sudo apt-get install python3-setuptools
-  
+    sudo python3 setup.py install
+    
 To install some packages with pip (because apparently the Jetson nano does not come with Python pip)  
     
     sudo apt install python3-pip
